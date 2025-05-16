@@ -28,13 +28,7 @@ Me chamo Renan Silva, tenho 18 anos e sou natural de SP. Concluí o ensino médi
 
 ## 📊 Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RenanCustodioDaSilva&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" width="375"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCustodioDaSilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Top Linguagens" width="300"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RenanCustodioDaSilva&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCustodioDaSilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Top Linguagens" width="48%"/>
+</p>
