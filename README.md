@@ -6,30 +6,35 @@ Me chamo Renan Silva, tenho 18 anos e sou natural de SP. Concluí o ensino médi
 
 <p align="left">
   <a href="https://github.com/RenanCustodioDaSilva?tab=repositories&sort=stargazers">
-    <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/RenanCustodioDaSilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RenanCustodioDaSilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
   </a>
   <a href="https://github.com/RenanCustodioDaSilva?tab=followers">
-    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/RenanCustodioDaSilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/RenanCustodioDaSilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Tecnologias
+### 🚀 Tecnologias & Estatísticas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      
+  <p align="center">
+    <img title="HTML" alt="HTML" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+    <img title="CSS" alt="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    <img title="JavaScript" alt="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img title="Git" alt="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    <img title="Python" alt="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  </p>
 
----
+    </td>
+    <td valign="top" width="50%">
 
-## 📊 Estatísticas do GitHub
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenanCustodioDaSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCustodioDaSilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenanCustodioDaSilva&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true" width="42%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCustodioDaSilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Top Linguagens" width="42%"/>
-</div>
+    </td>
+  </tr>
+</table>
