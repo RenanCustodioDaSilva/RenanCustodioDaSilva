@@ -1,6 +1,6 @@
 # 👨🏻‍💻 RenanCustodioDaSilva
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Renan Silva, tenho 18 anos e sou natural de SP. Concluí o ensino médio e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
 
