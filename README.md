@@ -1,17 +1,36 @@
 # 👨‍💻 Renan Custódio da Silva
 
-![Desenvolvedor](https://img.shields.io/badge/-Desenvolvedor-007ACC?style=flat-square)
+**Desenvolvedor Back-end em Formação | C# • .NET • SQL • PHP • Git**
 
-Sou o Renan Silva, tenho 18 anos e sou natural de SP. Concluí o ensino médio e atualmente estou a cursar Análise e Desenvolvimento de Sistemas[cite: 1]. Sou apaixonado por tecnologia e focado no desenvolvimento de software[cite: 1].
+Graduando em Análise e Desenvolvimento de Sistemas. Focado no ecossistema **.NET e C#**, construindo aplicações com Modelagem de Dados (SQL), Orientação a Objetos e controle de versão profissional via Git. Dedicado a estruturar rotinas eficientes e regras de negócio bem organizadas para o back-end.
 
 ---
 
 ### 🛠️ Linguagens e Tecnologias
 
-<div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+</p>
+
+---
+
+### 📊 Estatísticas e Contribuições
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanCustodioDaSilva&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&alarm=ff7b72" alt="Gráfico de Commits" />
+</p>
+
+---
+
+### 📬 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO_LINKEDIN)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
